@@ -16,27 +16,27 @@
 - 最后对题目中细节的要求进行检查，补充一些细节要求
 
 # 2. 目录结构
-project/
-├── main.py                      # 主程序文件
-├── 居灵-TakeHome工程题/           # 输入数据目录
-│   ├── example1.json
-│   ├── example2.json
-│   ├── example3.json
-│   ├── example4.json
-│   ├── image01.png
-│   ├── image02.png
-│   ├── image03.png
-│   ├── image04.png
-│   └── 题目要求.txt
-└── result/                      # 输出结果目录（自动创建）
-    ├── example1_result.json
-    ├── example2_result.json
-    ├── example3_result.json
-    ├── example4_result.json
-    ├── room_layout1.png
-    ├── room_layout2.png
-    ├── room_layout3.png
-    └── room_layout4.png
+project/  
+├── main.py                      # 主程序文件  
+├── 居灵-TakeHome工程题/           # 输入数据目录  
+│   ├── example1.json  
+│   ├── example2.json  
+│   ├── example3.json  
+│   ├── example4.json  
+│   ├── image01.png  
+│   ├── image02.png  
+│   ├── image03.png  
+│   ├── image04.png  
+│   └── 题目要求.txt  
+└── result/                      # 输出结果目录（自动创建）  
+    ├── example1_result.json  
+    ├── example2_result.json  
+    ├── example3_result.json  
+    ├── example4_result.json  
+    ├── room_layout1.png  
+    ├── room_layout2.png  
+    ├── room_layout3.png  
+    └── room_layout4.png  
 
 # 3. 核心代码逻辑说明
 ## 3.1 整体架构
